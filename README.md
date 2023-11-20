@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales Analysis
 **WELCOME !!** 
 This project involved analyzing sales data to uncover insights.
 ## Tools used
