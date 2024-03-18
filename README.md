@@ -7,7 +7,7 @@ This project involved analyzing sales data to uncover insights.
 
 I came up with a dashboard report to inform the insights to a non-technical audience.
 
-[Click Here](https://public.tableau.com/shared/MK3FN54W2?:display_count=n&:origin=viz_share_link) to view the dashboard.
+[Click Here](https://public.tableau.com/views/SaleAnalysis_17000899276700/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) to view the dashboard.
 
 ## Analysis
 * I used SQL to analyse the data.
